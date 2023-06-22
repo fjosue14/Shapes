@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shape/1.0.0": {
+        "dependencies": {
+          "BussinesLogic": "1.0.0",
+          "IBussinesLogic": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "Shape.dll": {}
+        }
+      },
+      "BussinesLogic/1.0.0": {
+        "dependencies": {
+          "IBussinesLogic": "1.0.0",
+          "Util": "1.0.0"
+        },
+        "runtime": {
+          "BussinesLogic.dll": {}
+        }
+      },
+      "IBussinesLogic/1.0.0": {
+        "runtime": {
+          "IBussinesLogic.dll": {}
+        }
+      },
+      "Util/1.0.0": {
+        "runtime": {
+          "Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BussinesLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IBussinesLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

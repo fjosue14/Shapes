@@ -1,0 +1,12 @@
+E:\SpaceWork\Programacion\KnoginExercise\Util\bin\Debug\net6.0\Util.deps.json
+E:\SpaceWork\Programacion\KnoginExercise\Util\bin\Debug\net6.0\Util.dll
+E:\SpaceWork\Programacion\KnoginExercise\Util\bin\Debug\net6.0\Util.pdb
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.csproj.AssemblyReference.cache
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.AssemblyInfoInputs.cache
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.AssemblyInfo.cs
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.csproj.CoreCompileInputs.cache
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.dll
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\refint\Util.dll
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\Util.pdb
+E:\SpaceWork\Programacion\KnoginExercise\Util\obj\Debug\net6.0\ref\Util.dll

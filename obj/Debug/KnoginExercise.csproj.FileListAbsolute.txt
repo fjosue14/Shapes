@@ -1,0 +1,7 @@
+D:\SpaceWork\Programacion\KnoginExercise\bin\Debug\KnoginExercise.exe.config
+D:\SpaceWork\Programacion\KnoginExercise\bin\Debug\KnoginExercise.exe
+D:\SpaceWork\Programacion\KnoginExercise\bin\Debug\KnoginExercise.pdb
+D:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.csprojAssemblyReference.cache
+D:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.csproj.CoreCompileInputs.cache
+D:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.exe
+D:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.pdb

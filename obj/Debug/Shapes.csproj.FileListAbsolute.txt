@@ -1,0 +1,5 @@
+E:\SpaceWork\Programacion\KnoginExercise\obj\Debug\Shapes.csproj.AssemblyReference.cache
+E:\SpaceWork\Programacion\KnoginExercise\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+E:\SpaceWork\Programacion\KnoginExercise\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+E:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.exe
+E:\SpaceWork\Programacion\KnoginExercise\obj\Debug\KnoginExercise.pdb

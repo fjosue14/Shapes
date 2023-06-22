@@ -1,0 +1,12 @@
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\bin\Debug\net6.0\IBussinesLogic.deps.json
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\bin\Debug\net6.0\IBussinesLogic.dll
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\bin\Debug\net6.0\IBussinesLogic.pdb
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.csproj.AssemblyReference.cache
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.AssemblyInfoInputs.cache
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.AssemblyInfo.cs
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.csproj.CoreCompileInputs.cache
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.dll
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\refint\IBussinesLogic.dll
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\IBussinesLogic.pdb
+E:\SpaceWork\Programacion\KnoginExercise\IBussinesLogic\obj\Debug\net6.0\ref\IBussinesLogic.dll
